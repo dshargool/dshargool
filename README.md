@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dshargool
 - 👀 I’m interested in ... building reliable, small footprint applications for interfacing between firmware and user space.
-- 🌱 I’m currently learning ... Rust 🦀
+- 🌱 I’m currently learning ... IoT - Cloud Integration
 - 💞️ I’m looking to collaborate on ... IoT type applications!
 - 📫 How to reach me ...
 
